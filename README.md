@@ -9,10 +9,13 @@
   </ul>
 </div>
 
-
-<!--- snake -->
 <div align="center">
-  <img  src="grid-snake.svg"
+  <img style="border-radius: 20px;" src="https://avatars.githubusercontent.com/u/71535020?v=4" alt="mufidpic" width="100" />
+
+</div>
+<!--- snake -->
+<div align="center" >
+  <img   src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
