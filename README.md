@@ -3,14 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mufid</h1></summary>
-  </ul>
-</div>
+
 
 <div align="center">
-  <img style="border-radius: 20px;" src="https://avatars.githubusercontent.com/u/71535020?v=4" alt="mufidpic" width="100" />
+  <img style="border-radius: 20px;" src="banner (2).jpg" alt="mufidpic"/>
 
 </div>
 <!--- snake -->
@@ -43,7 +39,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rzkmufid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rzkmufid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
